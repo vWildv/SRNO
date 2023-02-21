@@ -34,4 +34,4 @@ RDN-SRNO|[Google Drive](https://drive.google.com/file/d/12RL7b5ZAz7iKdyuAD7Wfy15
 `python demo.py --input input.png --model save/edsr-baseline_epoch-1000.pth --scale 2 --output output.png`
 
 ## Acknowledgements
-This code is built on [LIIF](https://github.com/yinboc/liif) and [LTE](https://github.com/yinboc/liif)
+This code is built on [LIIF](https://github.com/yinboc/liif) and [LTE](https://github.com/jaewon-lee-b/lte)
