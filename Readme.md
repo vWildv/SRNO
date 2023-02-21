@@ -21,6 +21,13 @@ model:
 ```
 
 ## Test
+Download a DIV2K pre-trained model.
+
+Model|Download
+:-:|:-:
+EDSR-baseline-SRNO|[Google Drive](https://drive.google.com/file/d/10eoYPpmR1mXgmWU9eptvfgYEpQehhhIz/view?usp=sharing)
+RDN-SRNO|[Google Drive](https://drive.google.com/file/d/12RL7b5ZAz7iKdyuAD7Wfy15ntZNno4RP/view?usp=sharing)
+
 `python test.py --config configs/test_srno.yaml --model edsr-baseline_epoch-1000.pth --mcell True`
 
 ## Demo
